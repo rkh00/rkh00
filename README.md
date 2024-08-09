@@ -1,5 +1,7 @@
 # Vær hilset
 
+I'm currently working as a Developer at Focus Software in Oslo, Norway. I somehow have an engineering degree, and I'm not afraid to use it. 
+
 ### Projects in my backlog
 - Discord bot for finding soccer scores
 
