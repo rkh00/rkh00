@@ -1,9 +1,9 @@
-## Vær hilset
+# Vær hilset
 
-# Projects in my backlog
+### Projects in my backlog
 - Discord bot for finding soccer scores
 
-# Technologies I have used
+### Technologies I have used
 - Python<3
 - Java
 - Javascript/Typescript
@@ -14,7 +14,7 @@
 - Git
 - ArcGIS + QGIS
 
-# Technologies I would like to learn
+### Technologies I would like to learn
 - Arch
 - Scala
 - Rust
