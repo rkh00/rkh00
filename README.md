@@ -9,6 +9,7 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 
 ### Projects in my backlog
 - Discord bot for finding soccer scores
+- Ruter% - App for determining how much of the Greater Oslo transit area a user has "discovered", probably using Entur's API [better name pending]
 
 ### Technologies I have used
 - Python<3
