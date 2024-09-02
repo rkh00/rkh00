@@ -12,8 +12,8 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 - Ruter% - App for determining how much of the Greater Oslo transit area a user has "discovered", probably using Entur's API [better name pending]
 
 ### Technologies I have used
-- Python<3
-- Java
+- Python (e.g. ML Tensorflow/Pytorch)
+- Java (JavaFX, JavaDB)
 - Javascript/Typescript
 - HTML/CSS
 - SQL/MySQL/PostgreSQL
@@ -21,6 +21,7 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 - React.js
 - Git
 - ArcGIS + QGIS
+- WPF (MVVM, Prism)
 
 ### Technologies I would like to learn
 - Arch
