@@ -7,6 +7,12 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 - [MSc Geomatics](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics), exchange (Delft University of Technology, 2022-2023)
 - Developer, [Sogelink Focus Software](https://www.focus.no/) (2024-)
 
+### A selection of my projects
+- [Connect Four in C#](https://github.com/rkh00/CSharpConnectFour)
+- [My master's thesis](https://github.com/rkh00/master)
+- [My geomatics specialization project](https://github.com/rkh00/tba4560)
+- [Digital Terrain Modelling re-sit exam](https://github.com/rkh00/dtm_resit)
+
 ### Projects in my backlog
 - Discord bot for finding soccer scores
 - Ruter% - App for determining how much of the Greater Oslo transit area a user has "discovered", probably using Entur's API [better name pending]
@@ -31,8 +37,9 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
-- ArcGIS + QGIS
-- WPF (MVVM, Prism)
+- [ArcGIS](https://www.arcgis.com/index.html)
+- [QGIS](https://qgis.org/)
+- [WPF](https://visualstudio.microsoft.com/vs/features/wpf/)
 
 ### Technologies I would like to learn
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
@@ -42,8 +49,8 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/></a>
 <a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></a>
-- Assembly
-- BASIC
+- [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+- [BASIC](https://en.wikipedia.org/wiki/BASIC)
 
 <!--
 **rkh00/rkh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
