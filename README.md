@@ -40,6 +40,7 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 - [ArcGIS](https://www.arcgis.com/index.html)
 - [QGIS](https://qgis.org/)
 - [WPF](https://visualstudio.microsoft.com/vs/features/wpf/)
+- [Prism](https://prismlibrary.com/)
 
 ### Technologies I would like to learn
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
