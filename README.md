@@ -5,7 +5,7 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 ### General overview of my background
 - [Engineering and ICT](https://www.ntnu.edu/studies/mting), Geomatics specialization (Norwegian University of Science and Technology, 2019-2024)
 - [MSc Geomatics](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics), exchange (Delft University of Technology, 2022-2023)
-- Developer, [Sogelink Focus Software](https://www.focus.no/) (2024-)
+- [Sogelink Focus Software](https://www.focus.no/), Developer (2024-)
 
 ### A selection of my projects
 - [Connect Four in C#](https://github.com/rkh00/CSharpConnectFour)
