@@ -52,8 +52,11 @@ I'm currently working as a Developer at Focus Software in Oslo, Norway. I someho
 <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/></a>
 <a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a>
 - [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [BASIC](https://en.wikipedia.org/wiki/BASIC)
+
+[(Where I get the badges from)](https://ileriayo.github.io/markdown-badges/)
 
 <!--
 **rkh00/rkh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
