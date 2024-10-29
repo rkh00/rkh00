@@ -1,6 +1,9 @@
-# Vær hilset
+# `print("Hello, world!")`
 
-I'm currently working as a Developer at Focus Software in Oslo, Norway. I somehow have an engineering degree, and I'm not afraid to use it. 
+### Who am I?
+I'm currently working as a Developer at Sogelink (formerly Focus Software) in Oslo, Norway. I somehow have an engineering degree, and I'm not afraid to use it. 
+
+In general, my background is in Python and web programming, but these days I mostly work in .NET in connection with my job.
 
 ### General overview of my background
 - [Engineering and ICT](https://www.ntnu.edu/studies/mting), Geomatics specialization (Norwegian University of Science and Technology, 2019-2024)
