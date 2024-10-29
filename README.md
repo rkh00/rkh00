@@ -65,7 +65,9 @@ In general, my background is in Python and web programming, but these days I mos
 - [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 
-[(Where I get the badges from)](https://ileriayo.github.io/markdown-badges/)
+### Where do I get those pretty Markdown badges from?
+
+[right here](https://ileriayo.github.io/markdown-badges/)
 
 <!--
 **rkh00/rkh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
