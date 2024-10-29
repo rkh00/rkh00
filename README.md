@@ -67,9 +67,17 @@ I speak both Norwegian and (US) English and my code is often some cursed combina
 - [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 
+### How can I be contacted?
+
+Your best bet is probably through [my LinkedIn](https://www.linkedin.com/in/robert-haug-800391221/).
+
 ### Where do I get those pretty Markdown badges from?
 
-[right here](https://ileriayo.github.io/markdown-badges/)
+[Right here](https://ileriayo.github.io/markdown-badges/)
+
+### Why is the title of this `README` so incredibly cliché?
+
+I have literally zero imagination.
 
 <!--
 **rkh00/rkh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
