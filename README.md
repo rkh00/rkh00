@@ -22,6 +22,8 @@ I speak both Norwegian and (US) English and my code is often in some cursed comb
 - Discord bot for finding soccer scores
 - Ruter% - "fog of war" type app for the Greater Oslo transit area, probably using [Entur's API](https://developer.entur.org/) (better name pending)
 - My own programming language - see [CodeNoodles' video](https://www.youtube.com/watch?v=XrnBtQq6OxM) for reference
+- The Good Samaritan Rice Purity Test - RPT but for good deeds
+- EliteSim - code for simulating a season of Eliteserien a million times
 
 ### Technologies I have used
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
