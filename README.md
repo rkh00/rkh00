@@ -5,7 +5,7 @@ I'm currently working as a Developer at Sogelink (formerly Focus Software) in Os
 
 In general, my background is in Python and web programming, but these days I mostly work in .NET in connection with my job.
 
-I speak both Norwegian and (US) English and my code is often some cursed combination of the two🇳🇴🇺🇸 
+I speak both Norwegian and (US) English and my code is often in some cursed combination of the two🇳🇴🇺🇸 
 
 ### General overview of my background
 - [Engineering and ICT](https://www.ntnu.edu/studies/mting), Geomatics specialization (Norwegian University of Science and Technology, 2019-2024)
