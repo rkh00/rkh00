@@ -1,7 +1,7 @@
 # `print("Hello, world!")`
 
 ### Who am I?
-I'm currently working as a Developer at Sogelink Norway (formerly Focus Software) in Oslo, Norway. I somehow have an engineering degree, and I'm not afraid to use it. 
+I'm currently working as a Software Developer at Norconsult Digital in Oslo, Norway. I somehow have an engineering degree, and I'm not afraid to use it. 
 
 In general, my background is in Python and web programming, but these days I mostly work in .NET in connection with my job.
 
@@ -10,7 +10,8 @@ I speak both Norwegian and (US) English and my code is often in some cursed comb
 ### General overview of my background
 - [Engineering and ICT](https://www.ntnu.edu/studies/mting), Geomatics specialization (Norwegian University of Science and Technology, 2019-2024)
 - [MSc Geomatics](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics), exchange (Delft University of Technology, 2022-2023)
-- [Sogelink Norway](https://www.focus.no/), Developer (2024-)
+- [Sogelink Norway](https://www.focus.no/), Developer (2024-2025)
+- [Norconsult Digital](https://norconsultdigital.no/), Software Developer (2025-)
 
 ### A selection of my projects
 - [Connect Four in C#](https://github.com/rkh00/CSharpConnectFour)
